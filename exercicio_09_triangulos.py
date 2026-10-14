@@ -1,5 +1,5 @@
 
-# Programa que classifica um triângulo.
+
 
 lado1 = float(input("Digite o primeiro lado: "))
 lado2 = float(input("Digite o segundo lado: "))

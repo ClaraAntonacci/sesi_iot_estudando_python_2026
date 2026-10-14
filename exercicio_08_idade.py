@@ -1,5 +1,4 @@
 
-# Programa que verifica a maioridade.
 
 idade = int(input("Digite sua idade: "))
 

@@ -1,5 +1,5 @@
 
-# Programa que verifica o sinal de um número.
+
 
 numero = float(input("Digite um número: "))
 

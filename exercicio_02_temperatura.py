@@ -1,5 +1,5 @@
 
-# Programa que converte Celsius para Fahrenheit.
+
 
 celsius = float(input("Digite a temperatura em Celsius: "))
 

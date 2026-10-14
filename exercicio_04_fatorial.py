@@ -1,5 +1,5 @@
 
-# Programa que calcula o fatorial de um número.
+
 
 numero = int(input("Digite um número inteiro positivo: "))
 

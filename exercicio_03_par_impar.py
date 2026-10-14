@@ -1,5 +1,4 @@
 
-# Programa que verifica se um número é par ou ímpar.
 
 numero = int(input("Digite um número inteiro: "))
 

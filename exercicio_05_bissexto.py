@@ -1,5 +1,4 @@
 
-# Programa que verifica se um ano é bissexto.
 
 ano = int(input("Digite um ano: "))
 
